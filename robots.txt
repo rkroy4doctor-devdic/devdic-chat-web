@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rkroy4doctor-devdic.github.io/devdic-chat-web/sitemap.xml
